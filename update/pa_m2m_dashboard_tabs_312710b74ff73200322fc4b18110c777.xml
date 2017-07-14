@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="System Administration">a52718bf4f333200322fc4b18110c79a</dashboard>
+        <home>false</home>
+        <homepage display_value="System Administration">c6336292eb830100d4360c505206fe36</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 09:16:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>312710b74ff73200322fc4b18110c777</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>a52718bf4f333200322fc4b18110c79a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_312710b74ff73200322fc4b18110c777</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 09:16:31</sys_updated_on>
+        <tab display_value="New Tab">f12718bf4f333200322fc4b18110c79e</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
